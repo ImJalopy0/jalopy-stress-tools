@@ -1,0 +1,16 @@
+wsl.exe -d Ubuntu
+
+./jalopy_pinger.sh
+
+./stressbomb.sh
+
+./megastress_spoofed_failsafe.sh
+
+./megastress_spoofed.sh
+
+./nuclearbomb_spoofed_failsafe.sh
+
+./nuclearbomb_spoofed.sh
+
+./truechaosbomb.sh
+
