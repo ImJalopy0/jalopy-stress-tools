@@ -1,4 +1,3 @@
-![Jalopy Stress Tools Banner](https://raw.githubusercontent.com/ImJalopy0/jalopy-stress-tools/main/A_digital_graphic_design_features_the_centered_tex.png)
 # 🚀 Jalopy Stress Tools
 
 A professional suite of high-performance network stress testing and monitoring scripts, designed for private lab environments and controlled server testing.
