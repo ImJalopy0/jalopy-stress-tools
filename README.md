@@ -13,7 +13,6 @@ A professional suite of high-performance network stress testing and monitoring s
 | `megastress_spoofed_failsafe.sh` | Mid-level flood with automatic protection |
 | `nuclearbomb_spoofed.sh` | Heavy randomized flood (spoofed) |
 | `nuclearbomb_spoofed_failsafe.sh` | Heavy flood with failsafe protection |
-| `stressbomb.sh` | Light basic flood attack |
 | `truechaosbomb.sh` | Dynamic chaos flooder that scales attacks over time |
 
 ---
